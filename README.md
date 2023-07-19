@@ -2,7 +2,7 @@
 
 ## 💻Information Technology Projects:
 
-####A ctive Directory Environment Setup
+#### Active Directory Environment Setup
 [Youtube Link](https://www.youtube.com/watch?v=uvTcd-VlM64)
 
 <!--
