@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# Hi, I'm Kobe Carroll, an IT Technician☺
+
+## 💻Information Technology Projects:
+[Youtube Link](https://www.youtube.com/watch?v=uvTcd-VlM64)
+
 <!--
 **KobeCyber/KobeCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
