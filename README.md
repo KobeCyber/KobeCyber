@@ -1,9 +1,4 @@
-# Hi, I'm Kobe Carroll, a Systems Engineer👋
-
-## 💻Information Technology Projects:
-
-### Active Directory Environment Setup
-[Youtube Link](https://www.youtube.com/watch?v=uvTcd-VlM64)
+# Hi, I'm Kobe Carroll, a Systems Engineer
 
 <!--
 **KobeCyber/KobeCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
