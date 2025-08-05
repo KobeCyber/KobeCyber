@@ -1,4 +1,4 @@
-# Hi, I'm Kobe Carroll, an IT Technician👋
+# Hi, I'm Kobe Carroll, a Systems Engineer👋
 
 ## 💻Information Technology Projects:
 
