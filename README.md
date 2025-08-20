@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working as a **Systems Engineer (Cloud Engineer)** at VC3  
+- 🔭 I’m currently working as a **Systems Engineer (Site Reliability Engineer)** at VC3  
 - 🌱 Expanding my skills in **Cloud, DevOps, and Cybersecurity**  
 - ☁️ Experienced with **Azure, AWS, Kubernetes, Docker, Linux, and Virtualization**  
 - 🛡️ Passionate about **network security, IAM, and securing cloud environments**  
