@@ -1,5 +1,5 @@
 # Hi, I'm Kobe Carroll 👋  
-💻 Systems Engineer | Automation Engineer | Cloud Engineer
+💻 Systems Engineer | Automation Engineer | Cloud Engineer | DevOps Engineer
 
 ---
 
