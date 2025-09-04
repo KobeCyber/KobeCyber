@@ -4,12 +4,11 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working as a **Systems Engineer (DevOps Engineer)** at VC3  
+- 🔭 I’m currently working as a **Systems Engineer (Cloud Engineer)** at VC3  
 - 🌱 Expanding my skills in **Cloud, DevOps, and Cybersecurity**  
 - ☁️ Experienced with **Azure, AWS, Kubernetes, Docker, Linux, and Virtualization**  
-- 🛡️ Passionate about **network security, IAM, and securing cloud environments**  
-- 🌱 Currently diving deeper into **Cybersecurity fundamentals and hands-on labs**  
-
+- 🛡️ Passionate about **network security, IAM, and securing cloud environments**
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -18,7 +17,7 @@
 - **AWS:** EC2, S3, VPC, IAM, CloudWatch, Lambda  
 - **Azure:** Virtual Machines, Storage, Networking, Entra ID, Azure Monitor  
 ### Containers & Orchestration
-- Docker, EKS, AKS  
+- Docker, Kubernetes, EKS, AKS  
 ### Infrastructure & Virtualization
 - Active Directory, VMware, Terraform
 ### Networking & Security
