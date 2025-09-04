@@ -13,12 +13,20 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Cloud:** Azure, AWS  
-- **Containers:** Docker, Kubernetes  
-- **Infrastructure:** Active Directory, Entra ID, Citrix, VMware  
-- **Networking & Security:** Firewalls, TCP/IP, BGP, ProofPoint, Microsoft Defender, Qualys  
-- **Scripting:** PowerShell, Bash, Python  
-- **Monitoring/Logs:** Splunk, Patch Management  
+
+### Cloud & Infrastructure
+- **AWS:** EC2, S3, VPC, IAM, CloudWatch, Lambda  
+- **Azure:** Virtual Machines, Storage, Networking, Entra ID, Azure Monitor  
+### Containers & Orchestration
+- Docker, EKS, AKS  
+### Infrastructure & Virtualization
+- Active Directory, VMware, Terraform  
+### Networking & Security
+- Firewalls, TCP/IP, Microsoft Defender, Qualys, Load Balancing  
+### Automation & Scripting
+- PowerShell, Bash, Python  
+### Monitoring & Observability
+- Prometheus, Grafana, CloudWatch, Azure Monitor, Patch Management
 
 ---
 
