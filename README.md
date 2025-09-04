@@ -14,20 +14,20 @@
 
 ## 🛠️ Tech Stack
 
-**Cloud & Infrastructure**
+### Cloud & Infrastructure
 - **AWS:** EC2, S3, VPC, IAM, CloudWatch, Lambda  
 - **Azure:** Virtual Machines, Storage, Networking, Entra ID, Azure Monitor  
-**Containers & Orchestration**
+### Containers & Orchestration
 - Docker, EKS, AKS  
-**Infrastructure & Virtualization**
-- Active Directory, VMware, Terraform  
-**Networking & Security**
+### Infrastructure & Virtualization
+- Active Directory, VMware, Terraform
+### Networking & Security
 - Firewalls, TCP/IP, Microsoft Defender, Qualys, Load Balancing  
-**Automation & Scripting**
+### Automation & Scripting
 - PowerShell, Bash, Python  
-**Monitoring & Observability**
-- Prometheus, Grafana, CloudWatch, Azure Monitor, Patch Management
-
+### Monitoring & Observability
+- Splunk, CloudWatch, Azure Monitor, Patch Management
+  
 ---
 
 ## 📈 What I’m Learning
